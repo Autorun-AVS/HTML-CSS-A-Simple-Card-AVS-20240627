@@ -12,5 +12,8 @@ See the LICENSE file for more details.
 [Github Project link](https://github.com/Autorun-AVS/HTML-CSS-A-Simple-Card-AVS-20240627)
 
 Screenshots:
+
+Screenshot 1
 ![Project screenshot 1](screenshots/A-Simple-Card-AVS-screenshot%20(1).png)
+Screenshot 2
 ![Project screenshots 2](screenshots/A-Simple-Card-AVS-screenshot%20(2).png)
