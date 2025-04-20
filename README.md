@@ -1,6 +1,4 @@
-Here’s the **complete markdown code** for your README, including **all sections** (preview, installation, developer rights, and license) in a single block for easy copying:  
 
-```markdown
 # Simple Card Project | HTML & CSS  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
@@ -22,7 +20,7 @@ A minimalist, responsive card component built with pure HTML and CSS.
    ```bash
    git clone https://github.com/Autorun-AVS/HTML-CSS-A-Simple-Card-AVS-20240627.git
    ```  
-2. Open the project:  
+2. Open the project:
    ```bash
    cd HTML-CSS-A-Simple-Card-AVS-20240627
    open index.html  # Or double-click the file in your file explorer
@@ -35,15 +33,15 @@ This project is **open-source** under the MIT License. Feel free to:
 
 **A small credit is appreciated** but not mandatory. For example:  
 ```html
-Card design by [Nio I.](https://github.com/Autorun-AVS)
+Created by [Nio I.](https://github.com/Autorun-AVS)
 ```  
 
 **Developer**: Nio I.  
-**License**: [MIT](LICENSE)  
+**License**: [MIT](LICENSE.txt)  
 
 ---  
 
 🔗 **Links**:  
-[View Project](https://github.com/Autorun-AVS/HTML-CSS-A-Simple-Card-AVS-20240627) |  
+[View Project](https://github.com/Autorun-AVS/HTML-CSS-A-Simple-Card-AVS-20240627)
 [Report Issues](https://github.com/Autorun-AVS/HTML-CSS-A-Simple-Card-AVS-20240627/issues)  
 ```
