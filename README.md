@@ -1,9 +1,14 @@
-# Simple Card Project | HTML & CSS
+# A Simple Card Project | HTML & CSS | AVS
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A minimalist, responsive card component built with pure HTML and CSS.
+If professional developers see this, they might laugh. It's a simple practice project. The only important thing is about grid use and how the content can center both horizontally and vertically. In my experience, i you centering the content horizontally and vertically, use this property
 
+   ```css
+   height: 100vh; width: 100vw; display: grid; place-items: center;
+   ```
+
+ on body tag instead of using container div. Because most of the developers like to use container div. Why not? If you zoom in the index.html file on the browser and scroll you will find out.
 
 ## ✨ Features
 
@@ -11,13 +16,11 @@ A minimalist, responsive card component built with pure HTML and CSS.
 - No frameworks (pure CSS)
 - Easy to customize
 
-
 ## 🖥️ Preview
 
-| Mobile | Desktop |
-| ------ | ------- |
+| Mobile                                                                     | Desktop                                                                     |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | ![Mobile Screenshot](<screenshots/A-Simple-Card-AVS-screenshot%20(1).png>) | ![Desktop Screenshot](<screenshots/A-Simple-Card-AVS-screenshot%20(2).png>) |
-
 
 ## 🛠️ Installation
 
@@ -30,7 +33,6 @@ A minimalist, responsive card component built with pure HTML and CSS.
    cd HTML-CSS-A-Simple-Card-AVS-20240627
    ```
    Or double-click the index.html in your file explorer
-
 
 ## 📜 Developer Rights
 
@@ -48,10 +50,10 @@ Created by [Nio I.](https://github.com/Autorun-AVS)
 **Developer**: Nio I.  
 **License**: [MIT](LICENSE.txt)
 
-
 ---
 
-🔗 **Links**:  
-- [View Profile](https://github.com/Autorun-AVS)  
-- [View Project](https://github.com/Autorun-AVS/HTML-CSS-A-Simple-Card-AVS-20240627)  
+🔗 **Links**:
+
+- [View Profile](https://github.com/Autorun-AVS)
+- [View Project](https://github.com/Autorun-AVS/HTML-CSS-A-Simple-Card-AVS-20240627)
 - [Report Issues](https://github.com/Autorun-AVS/HTML-CSS-A-Simple-Card-AVS-20240627/issues)
