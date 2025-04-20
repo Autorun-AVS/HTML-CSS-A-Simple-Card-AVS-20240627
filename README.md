@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-If professional developers see this, they might laugh. It's a simple practice project. The only important thing is about grid use and how the content can center both horizontally and vertically. In my experience, i you centering the content horizontally and vertically, use this property
+If professional developers see this, they might laugh. It's a simple practice project. The only important thing is about grid use and how the content can center both horizontally and vertically. In my experience, for centering the content horizontally and vertically, use this property
 
    ```css
    height: 100vh; width: 100vw; display: grid; place-items: center;
